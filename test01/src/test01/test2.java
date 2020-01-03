@@ -1,3 +1,4 @@
+
 package test01;
 
 public class test2{
@@ -6,3 +7,5 @@ public class test2{
 		System.out.println(123);
 	}
 }
+
+
